@@ -1,0 +1,34 @@
+C:\Users\HP\source\repos\millonarioApi\Millonario.Infrastructure\bin\Debug\net8.0\Millonario.Infrastructure.deps.json
+C:\Users\HP\source\repos\millonarioApi\Millonario.Infrastructure\bin\Debug\net8.0\Millonario.Infrastructure.runtimeconfig.json
+C:\Users\HP\source\repos\millonarioApi\Millonario.Infrastructure\bin\Debug\net8.0\Millonario.Infrastructure.dll
+C:\Users\HP\source\repos\millonarioApi\Millonario.Infrastructure\bin\Debug\net8.0\Millonario.Infrastructure.pdb
+C:\Users\HP\source\repos\millonarioApi\Millonario.Infrastructure\bin\Debug\net8.0\Millonario.Domain.dll
+C:\Users\HP\source\repos\millonarioApi\Millonario.Infrastructure\bin\Debug\net8.0\Millonario.Domain.pdb
+C:\Users\HP\source\repos\millonarioApi\Millonario.Infrastructure\obj\Debug\net8.0\Millonario.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\millonarioApi\Millonario.Infrastructure\obj\Debug\net8.0\Millonario.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\millonarioApi\Millonario.Infrastructure\obj\Debug\net8.0\Millonario.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\millonarioApi\Millonario.Infrastructure\obj\Debug\net8.0\Millonario.Infrastructure.AssemblyInfo.cs
+C:\Users\HP\source\repos\millonarioApi\Millonario.Infrastructure\obj\Debug\net8.0\Millonario.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\millonarioApi\Millonario.Infrastructure\obj\Debug\net8.0\Millonar.68EDAB1D.Up2Date
+C:\Users\HP\source\repos\millonarioApi\Millonario.Infrastructure\obj\Debug\net8.0\Millonario.Infrastructure.dll
+C:\Users\HP\source\repos\millonarioApi\Millonario.Infrastructure\obj\Debug\net8.0\refint\Millonario.Infrastructure.dll
+C:\Users\HP\source\repos\millonarioApi\Millonario.Infrastructure\obj\Debug\net8.0\Millonario.Infrastructure.pdb
+C:\Users\HP\source\repos\millonarioApi\Millonario.Infrastructure\obj\Debug\net8.0\Millonario.Infrastructure.genruntimeconfig.cache
+C:\Users\HP\source\repos\millonarioApi\Millonario.Infrastructure\obj\Debug\net8.0\ref\Millonario.Infrastructure.dll
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Infrastructure\bin\Debug\net8.0\Millonario.Infrastructure.deps.json
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Infrastructure\bin\Debug\net8.0\Millonario.Infrastructure.runtimeconfig.json
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Infrastructure\bin\Debug\net8.0\Millonario.Infrastructure.dll
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Infrastructure\bin\Debug\net8.0\Millonario.Infrastructure.pdb
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Infrastructure\bin\Debug\net8.0\Millonario.Domain.dll
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Infrastructure\bin\Debug\net8.0\Millonario.Domain.pdb
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Infrastructure\obj\Debug\net8.0\Millonario.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Infrastructure\obj\Debug\net8.0\Millonario.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Infrastructure\obj\Debug\net8.0\Millonario.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Infrastructure\obj\Debug\net8.0\Millonario.Infrastructure.AssemblyInfo.cs
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Infrastructure\obj\Debug\net8.0\Millonario.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Infrastructure\obj\Debug\net8.0\Millonar.68EDAB1D.Up2Date
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Infrastructure\obj\Debug\net8.0\Millonario.Infrastructure.dll
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Infrastructure\obj\Debug\net8.0\refint\Millonario.Infrastructure.dll
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Infrastructure\obj\Debug\net8.0\Millonario.Infrastructure.pdb
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Infrastructure\obj\Debug\net8.0\Millonario.Infrastructure.genruntimeconfig.cache
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Infrastructure\obj\Debug\net8.0\ref\Millonario.Infrastructure.dll

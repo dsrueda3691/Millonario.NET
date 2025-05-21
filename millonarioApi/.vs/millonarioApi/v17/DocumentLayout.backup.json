@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Proyecto .NET2\\millonarioApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4726A0E-54FF-4315-A52B-54748F4139FD}|millonarioApi\\millonarioApi.csproj|c:\\users\\hp\\desktop\\proyecto .net2\\millonarioapi\\millonarioapi\\controllers\\preguntascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4726A0E-54FF-4315-A52B-54748F4139FD}|millonarioApi\\millonarioApi.csproj|solutionrelative:millonarioapi\\controllers\\preguntascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4726A0E-54FF-4315-A52B-54748F4139FD}|millonarioApi\\millonarioApi.csproj|c:\\users\\hp\\desktop\\proyecto .net2\\millonarioapi\\millonarioapi\\models\\preguntadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4726A0E-54FF-4315-A52B-54748F4139FD}|millonarioApi\\millonarioApi.csproj|solutionrelative:millonarioapi\\models\\preguntadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\Proyecto .NET2\\millonarioApi\\Millonario.Infrastructure\\Migrations\\20250521061409_InitialMigrationWithAllData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Millonario.Infrastructure\\Migrations\\20250521061409_InitialMigrationWithAllData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD27684-40FD-4A5E-A65D-8586ADD4A58F}|Millonario.Infrastructure\\Millonario.Infrastructure.csproj|c:\\users\\hp\\desktop\\proyecto .net2\\millonarioapi\\millonario.infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD27684-40FD-4A5E-A65D-8586ADD4A58F}|Millonario.Infrastructure\\Millonario.Infrastructure.csproj|solutionrelative:millonario.infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA63F04D-9C46-47AE-B539-DB86808C56DE}|Millonario.Domain\\Millonario.Domain.csproj|c:\\users\\hp\\desktop\\proyecto .net2\\millonarioapi\\millonario.domain\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA63F04D-9C46-47AE-B539-DB86808C56DE}|Millonario.Domain\\Millonario.Domain.csproj|solutionrelative:millonario.domain\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4726A0E-54FF-4315-A52B-54748F4139FD}|millonarioApi\\millonarioApi.csproj|c:\\users\\hp\\desktop\\proyecto .net2\\millonarioapi\\millonarioapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4726A0E-54FF-4315-A52B-54748F4139FD}|millonarioApi\\millonarioApi.csproj|solutionrelative:millonarioapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4726A0E-54FF-4315-A52B-54748F4139FD}|millonarioApi\\millonarioApi.csproj|c:\\users\\hp\\desktop\\proyecto .net2\\millonarioapi\\millonarioapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4726A0E-54FF-4315-A52B-54748F4139FD}|millonarioApi\\millonarioApi.csproj|solutionrelative:millonarioapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4726A0E-54FF-4315-A52B-54748F4139FD}|millonarioApi\\millonarioApi.csproj|c:\\users\\hp\\desktop\\proyecto .net2\\millonarioapi\\millonarioapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4726A0E-54FF-4315-A52B-54748F4139FD}|millonarioApi\\millonarioApi.csproj|solutionrelative:millonarioapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4726A0E-54FF-4315-A52B-54748F4139FD}|millonarioApi\\millonarioApi.csproj|c:\\users\\hp\\desktop\\proyecto .net2\\millonarioapi\\millonarioapi\\models\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4726A0E-54FF-4315-A52B-54748F4139FD}|millonarioApi\\millonarioApi.csproj|solutionrelative:millonarioapi\\models\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4726A0E-54FF-4315-A52B-54748F4139FD}|millonarioApi\\millonarioApi.csproj|c:\\users\\hp\\desktop\\proyecto .net2\\millonarioapi\\millonarioapi\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4726A0E-54FF-4315-A52B-54748F4139FD}|millonarioApi\\millonarioApi.csproj|solutionrelative:millonarioapi\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4726A0E-54FF-4315-A52B-54748F4139FD}|millonarioApi\\millonarioApi.csproj|c:\\users\\hp\\desktop\\proyecto .net2\\millonarioapi\\millonarioapi\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4726A0E-54FF-4315-A52B-54748F4139FD}|millonarioApi\\millonarioApi.csproj|solutionrelative:millonarioapi\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4726A0E-54FF-4315-A52B-54748F4139FD}|millonarioApi\\millonarioApi.csproj|c:\\users\\hp\\desktop\\proyecto .net2\\millonarioapi\\millonarioapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4726A0E-54FF-4315-A52B-54748F4139FD}|millonarioApi\\millonarioApi.csproj|solutionrelative:millonarioapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4726A0E-54FF-4315-A52B-54748F4139FD}|millonarioApi\\millonarioApi.csproj|c:\\users\\hp\\desktop\\proyecto .net2\\millonarioapi\\millonarioapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4726A0E-54FF-4315-A52B-54748F4139FD}|millonarioApi\\millonarioApi.csproj|solutionrelative:millonarioapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD27684-40FD-4A5E-A65D-8586ADD4A58F}|Millonario.Infrastructure\\Millonario.Infrastructure.csproj|c:\\users\\hp\\desktop\\proyecto .net2\\millonarioapi\\millonario.infrastructure\\millonario.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0FD27684-40FD-4A5E-A65D-8586ADD4A58F}|Millonario.Infrastructure\\Millonario.Infrastructure.csproj|solutionrelative:millonario.infrastructure\\millonario.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250521061409_InitialMigrationWithAllData.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Proyecto .NET2\\millonarioApi\\Millonario.Infrastructure\\Migrations\\20250521061409_InitialMigrationWithAllData.cs",
+              "RelativeDocumentMoniker": "Millonario.Infrastructure\\Migrations\\20250521061409_InitialMigrationWithAllData.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Proyecto .NET2\\millonarioApi\\Millonario.Infrastructure\\Migrations\\20250521061409_InitialMigrationWithAllData.cs",
+              "RelativeToolTip": "Millonario.Infrastructure\\Migrations\\20250521061409_InitialMigrationWithAllData.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAgwHIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:14:09.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PreguntasController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Proyecto .NET2\\millonarioApi\\millonarioApi\\Controllers\\PreguntasController.cs",
+              "RelativeDocumentMoniker": "millonarioApi\\Controllers\\PreguntasController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Proyecto .NET2\\millonarioApi\\millonarioApi\\Controllers\\PreguntasController.cs",
+              "RelativeToolTip": "millonarioApi\\Controllers\\PreguntasController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwCIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T05:54:56.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Proyecto .NET2\\millonarioApi\\Millonario.Infrastructure\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Millonario.Infrastructure\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Proyecto .NET2\\millonarioApi\\Millonario.Infrastructure\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Millonario.Infrastructure\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADwv4AAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:04:53.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PreguntaDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Proyecto .NET2\\millonarioApi\\millonarioApi\\Models\\PreguntaDto.cs",
+              "RelativeDocumentMoniker": "millonarioApi\\Models\\PreguntaDto.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Proyecto .NET2\\millonarioApi\\millonarioApi\\Models\\PreguntaDto.cs",
+              "RelativeToolTip": "millonarioApi\\Models\\PreguntaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:45:45.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Proyecto .NET2\\millonarioApi\\millonarioApi\\Program.cs",
+              "RelativeDocumentMoniker": "millonarioApi\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Proyecto .NET2\\millonarioApi\\millonarioApi\\Program.cs",
+              "RelativeToolTip": "millonarioApi\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAuwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:14:42.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Proyecto .NET2\\millonarioApi\\millonarioApi\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "millonarioApi\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Proyecto .NET2\\millonarioApi\\millonarioApi\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "millonarioApi\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:42:31.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Proyecto .NET2\\millonarioApi\\Millonario.Domain\\Usuario.cs",
+              "RelativeDocumentMoniker": "Millonario.Domain\\Usuario.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Proyecto .NET2\\millonarioApi\\Millonario.Domain\\Usuario.cs",
+              "RelativeToolTip": "Millonario.Domain\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:01:12.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Proyecto .NET2\\millonarioApi\\millonarioApi\\Models\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "millonarioApi\\Models\\AuthResponse.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Proyecto .NET2\\millonarioApi\\millonarioApi\\Models\\AuthResponse.cs",
+              "RelativeToolTip": "millonarioApi\\Models\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:42:56.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Proyecto .NET2\\millonarioApi\\millonarioApi\\appsettings.json",
+              "RelativeDocumentMoniker": "millonarioApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Proyecto .NET2\\millonarioApi\\millonarioApi\\appsettings.json",
+              "RelativeToolTip": "millonarioApi\\appsettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-21T06:16:35.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Proyecto .NET2\\millonarioApi\\millonarioApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "millonarioApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Proyecto .NET2\\millonarioApi\\millonarioApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "millonarioApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAIwGwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:44:09.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Proyecto .NET2\\millonarioApi\\millonarioApi\\Models\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "millonarioApi\\Models\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Proyecto .NET2\\millonarioApi\\millonarioApi\\Models\\RegisterRequest.cs",
+              "RelativeToolTip": "millonarioApi\\Models\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:41:49.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Proyecto .NET2\\millonarioApi\\millonarioApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "millonarioApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Proyecto .NET2\\millonarioApi\\millonarioApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "millonarioApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-21T06:20:22.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Proyecto .NET2\\millonarioApi\\millonarioApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "millonarioApi\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Proyecto .NET2\\millonarioApi\\millonarioApi\\WeatherForecast.cs",
+              "RelativeToolTip": "millonarioApi\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:16:26.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Millonario.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Proyecto .NET2\\millonarioApi\\Millonario.Infrastructure\\Millonario.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Millonario.Infrastructure\\Millonario.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Proyecto .NET2\\millonarioApi\\Millonario.Infrastructure\\Millonario.Infrastructure.csproj",
+              "RelativeToolTip": "Millonario.Infrastructure\\Millonario.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-21T05:54:05.1Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

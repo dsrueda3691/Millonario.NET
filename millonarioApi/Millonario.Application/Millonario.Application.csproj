@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Millonario.Domain\Millonario.Domain.csproj" />
+    <ProjectReference Include="..\Millonario.Infrastructure\Millonario.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

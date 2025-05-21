@@ -1,0 +1,6 @@
+@millonarioApi_HostAddress = http://localhost:5280
+
+GET {{millonarioApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

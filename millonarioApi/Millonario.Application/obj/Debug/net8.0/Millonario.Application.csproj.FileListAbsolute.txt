@@ -1,0 +1,34 @@
+C:\Users\HP\source\repos\millonarioApi\Millonario.Application\bin\Debug\net8.0\Millonario.Application.deps.json
+C:\Users\HP\source\repos\millonarioApi\Millonario.Application\bin\Debug\net8.0\Millonario.Application.dll
+C:\Users\HP\source\repos\millonarioApi\Millonario.Application\bin\Debug\net8.0\Millonario.Application.pdb
+C:\Users\HP\source\repos\millonarioApi\Millonario.Application\bin\Debug\net8.0\Millonario.Domain.dll
+C:\Users\HP\source\repos\millonarioApi\Millonario.Application\bin\Debug\net8.0\Millonario.Infrastructure.dll
+C:\Users\HP\source\repos\millonarioApi\Millonario.Application\bin\Debug\net8.0\Millonario.Domain.pdb
+C:\Users\HP\source\repos\millonarioApi\Millonario.Application\bin\Debug\net8.0\Millonario.Infrastructure.pdb
+C:\Users\HP\source\repos\millonarioApi\Millonario.Application\obj\Debug\net8.0\Millonario.Application.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\millonarioApi\Millonario.Application\obj\Debug\net8.0\Millonario.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\millonarioApi\Millonario.Application\obj\Debug\net8.0\Millonario.Application.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\millonarioApi\Millonario.Application\obj\Debug\net8.0\Millonario.Application.AssemblyInfo.cs
+C:\Users\HP\source\repos\millonarioApi\Millonario.Application\obj\Debug\net8.0\Millonario.Application.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\millonarioApi\Millonario.Application\obj\Debug\net8.0\Millonar.FCC42C8A.Up2Date
+C:\Users\HP\source\repos\millonarioApi\Millonario.Application\obj\Debug\net8.0\Millonario.Application.dll
+C:\Users\HP\source\repos\millonarioApi\Millonario.Application\obj\Debug\net8.0\refint\Millonario.Application.dll
+C:\Users\HP\source\repos\millonarioApi\Millonario.Application\obj\Debug\net8.0\Millonario.Application.pdb
+C:\Users\HP\source\repos\millonarioApi\Millonario.Application\obj\Debug\net8.0\ref\Millonario.Application.dll
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Application\bin\Debug\net8.0\Millonario.Application.deps.json
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Application\bin\Debug\net8.0\Millonario.Application.dll
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Application\bin\Debug\net8.0\Millonario.Application.pdb
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Application\bin\Debug\net8.0\Millonario.Domain.dll
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Application\bin\Debug\net8.0\Millonario.Infrastructure.dll
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Application\bin\Debug\net8.0\Millonario.Domain.pdb
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Application\bin\Debug\net8.0\Millonario.Infrastructure.pdb
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Application\obj\Debug\net8.0\Millonario.Application.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Application\obj\Debug\net8.0\Millonario.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Application\obj\Debug\net8.0\Millonario.Application.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Application\obj\Debug\net8.0\Millonario.Application.AssemblyInfo.cs
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Application\obj\Debug\net8.0\Millonario.Application.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Application\obj\Debug\net8.0\Millonar.FCC42C8A.Up2Date
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Application\obj\Debug\net8.0\Millonario.Application.dll
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Application\obj\Debug\net8.0\refint\Millonario.Application.dll
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Application\obj\Debug\net8.0\Millonario.Application.pdb
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Application\obj\Debug\net8.0\ref\Millonario.Application.dll

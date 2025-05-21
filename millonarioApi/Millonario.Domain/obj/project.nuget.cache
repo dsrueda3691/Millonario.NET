@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xjIKFxQCvx0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\Proyecto .NET2\\millonarioApi\\Millonario.Domain\\Millonario.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.14\\microsoft.aspnetcore.cryptography.internal.8.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

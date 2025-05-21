@@ -1,0 +1,19 @@
+/* src/assets/global.css */
+html,
+body,
+#app {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: radial-gradient(circle at center, #0b1c3d, #000);
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+  position: relative; /* Ajusta esto si tu header no debería flotar */
+  width: 100%; /* Asegúrate de que el header ocupe el ancho completo */
+}

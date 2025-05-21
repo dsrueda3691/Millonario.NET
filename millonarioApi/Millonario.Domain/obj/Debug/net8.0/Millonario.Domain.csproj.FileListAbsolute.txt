@@ -1,0 +1,24 @@
+C:\Users\HP\source\repos\millonarioApi\Millonario.Domain\bin\Debug\net8.0\Millonario.Domain.deps.json
+C:\Users\HP\source\repos\millonarioApi\Millonario.Domain\bin\Debug\net8.0\Millonario.Domain.dll
+C:\Users\HP\source\repos\millonarioApi\Millonario.Domain\bin\Debug\net8.0\Millonario.Domain.pdb
+C:\Users\HP\source\repos\millonarioApi\Millonario.Domain\obj\Debug\net8.0\Millonario.Domain.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\millonarioApi\Millonario.Domain\obj\Debug\net8.0\Millonario.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\millonarioApi\Millonario.Domain\obj\Debug\net8.0\Millonario.Domain.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\millonarioApi\Millonario.Domain\obj\Debug\net8.0\Millonario.Domain.AssemblyInfo.cs
+C:\Users\HP\source\repos\millonarioApi\Millonario.Domain\obj\Debug\net8.0\Millonario.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\millonarioApi\Millonario.Domain\obj\Debug\net8.0\Millonario.Domain.dll
+C:\Users\HP\source\repos\millonarioApi\Millonario.Domain\obj\Debug\net8.0\refint\Millonario.Domain.dll
+C:\Users\HP\source\repos\millonarioApi\Millonario.Domain\obj\Debug\net8.0\Millonario.Domain.pdb
+C:\Users\HP\source\repos\millonarioApi\Millonario.Domain\obj\Debug\net8.0\ref\Millonario.Domain.dll
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Domain\bin\Debug\net8.0\Millonario.Domain.deps.json
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Domain\bin\Debug\net8.0\Millonario.Domain.dll
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Domain\bin\Debug\net8.0\Millonario.Domain.pdb
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Domain\obj\Debug\net8.0\Millonario.Domain.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Domain\obj\Debug\net8.0\Millonario.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Domain\obj\Debug\net8.0\Millonario.Domain.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Domain\obj\Debug\net8.0\Millonario.Domain.AssemblyInfo.cs
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Domain\obj\Debug\net8.0\Millonario.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Domain\obj\Debug\net8.0\Millonario.Domain.dll
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Domain\obj\Debug\net8.0\refint\Millonario.Domain.dll
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Domain\obj\Debug\net8.0\Millonario.Domain.pdb
+C:\Users\HP\Desktop\Proyecto .NET2\millonarioApi\Millonario.Domain\obj\Debug\net8.0\ref\Millonario.Domain.dll
