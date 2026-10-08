@@ -1,0 +1,36 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio
+.vs/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.sln.docstates
+
+# NuGet
+*.nupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+
+# Frontend (si aplica)
+node_modules/
+dist/
+
+# OS / Editor
+.DS_Store
+.idea/
+.vscode/
+*.sw?
+
+# Secrets
+appsettings.Development.json
+*.pfx
